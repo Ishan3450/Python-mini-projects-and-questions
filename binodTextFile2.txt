@@ -1,0 +1,14 @@
+Thank You for replaying this message .
+you have to Reply one more time this message including your details
+You have to Provide Following Details in the Following format:
+Name : Binod Binod B
+Age : 
+AadharCard Number :
+PAN Card Number : 
+Bank Account Number : 
+Mobile Number : 
+upi Id (if have) :
+
+So, You have to provide this Details.
+Thank You,
+Binod!!
